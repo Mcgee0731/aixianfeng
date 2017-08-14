@@ -1,6 +1,10 @@
 # aixianfeng
 
-> A Vue.js project
+> vue2.0构建 爱鲜蜂 APP
+
+### 效果截图
+
+![home1](/Users/miaoce/Desktop/home1.png)
 
 ## Build Setup
 

@@ -3500,9 +3500,8 @@
       "unit": 459,
       "brand": "你下",
       "expiration": 3.2,
-      "num": 2,
-      "id": 1,
-      "activeSelect": true
+      "num": 0,
+      "id": 1
     },
     {
       "product_id": 2,
@@ -3517,9 +3516,59 @@
       "unit": 90,
       "brand": "于类龙现",
       "expiration": 1.3,
-      "num": 2,
-      "id": 2,
-      "activeSelect": true
+      "num": 0,
+      "id": 2
+    },
+    {
+      "product_id": 3,
+      "cids": 0,
+      "imgs": {
+        "small": "http://dummyimage.com/355x355/79c0f2&text=难战你严)",
+        "big": "http://dummyimage.com/500x500/e3f279&text=斗给但七)"
+      },
+      "title": "油南生连调有节格",
+      "details": "其严据导器当以下示难研标界格。看区十即争可性己众世转加委她科。更族叫明千已动王类至知际。儿型革身连它持商见七酸设入眼书米。",
+      "price": 5.2,
+      "unit": 87,
+      "brand": "此该",
+      "expiration": 2.6,
+      "num": 0,
+      "activeSelect": true,
+      "id": 3
+    },
+    {
+      "product_id": 92,
+      "cids": 2,
+      "imgs": {
+        "small": "http://dummyimage.com/355x355/79e1f2&text=位书才战美程变)",
+        "big": "http://dummyimage.com/500x500/f2df79&text=能之海决王)"
+      },
+      "title": "求放认团斗活较资",
+      "details": "正快信事带然支养按别先局群。点放红间保大线布产千设世。间造前计相林准义观分作者。复号委还老东住构好取思按之出。强几原才于越记应克据观发计严平。研但存等道路如应资确些飞正用进式。",
+      "price": 17.6,
+      "unit": 393,
+      "brand": "第中技门",
+      "expiration": 3.8,
+      "num": 1,
+      "activeSelect": true,
+      "id": 4
+    },
+    {
+      "product_id": 93,
+      "cids": 1,
+      "imgs": {
+        "small": "http://dummyimage.com/355x355/bc79f2&text=数北听十布)",
+        "big": "http://dummyimage.com/500x500/79f298&text=清边规正色日制)"
+      },
+      "title": "织百拉红常书消切",
+      "details": "或场调界程天验单世说示米备委真它空使。月增接即本传许制风社列代位员约。就基系给及命交多导新要开该。制人去细都队龙开单等布众位料听设。非程给习等历有九眼金革地二研。角定联相程办团整严达铁压上下积。",
+      "price": 5.1,
+      "unit": 308,
+      "brand": "者上道克",
+      "expiration": 1.7,
+      "num": 1,
+      "activeSelect": true,
+      "id": 5
     }
   ]
 }
