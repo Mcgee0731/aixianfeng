@@ -4,7 +4,15 @@
 
 ### 效果截图
 
-![home1](./mdImages/home1.png)
+![home1](./mdImages/home1.png =500)
+
+```html
+<img src="./mdImages/home1.png" width="300">
+<img src="./mdImages/home2.png" width="300"><br>
+<img src="./mdImages/market1.png" width="300">
+```
+
+
 
 ## Build Setup
 
