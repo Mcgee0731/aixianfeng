@@ -24,7 +24,6 @@ export default {
           item.activeSelect = true
           http.post(Api.host + 'cartData', item)
             .then(function (data) {
-              // console.log(data.data)
               commit('ADD_NUM', data.data)
             })
         }
